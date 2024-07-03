@@ -1,6 +1,6 @@
-# COPIA PERSONAL
+# _COPIA PERSONAL_
 
-### Esta es una copia personal de un proyecto realizado para la Universidad Católica del Uruguay.
+### _Esta es una copia personal de un proyecto realizado para la Universidad Católica del Uruguay._
 
 # Pencaucu
 
