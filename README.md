@@ -1,3 +1,7 @@
+# COPIA PERSONAL
+
+### Esta es una copia personal de un proyecto realizado para la Universidad Católica del Uruguay.
+
 # Pencaucu
 
 Pencaucu es una aplicación web que permite predecir los goles de los partidos de fútbol de forma divertida.
